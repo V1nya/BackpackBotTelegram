@@ -1,2 +1,2 @@
-telebot
-sqlalchemy
+pyTelegramBotAPI
+SQLAlchemy
