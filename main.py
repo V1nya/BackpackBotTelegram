@@ -5,7 +5,7 @@ from utils.db_utils import create_dbsession
 import utils
 from utils import model
 
-bot = telebot.TeleBot("5487695335:AAGFuarc4oPIBHfM9zp88NaNprTTW9AKwMM")
+bot = telebot.TeleBot("TOKEN")
 
 db = create_dbsession()
 admin_id = [874872768]
